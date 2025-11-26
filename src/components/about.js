@@ -1,4 +1,4 @@
-import { PROFILE } from "../data";
+//import { PROFILE } from "../data";
 
 export default function About() {
   return (

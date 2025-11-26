@@ -11,7 +11,6 @@ import {
   FaAws,
   FaAndroid,
   FaWordpress,
-  FaCloud,
   FaGithub,
   FaDatabase,
   FaCode,
