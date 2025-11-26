@@ -3,7 +3,7 @@ import { SKILLS } from "../data";
 export default function Skills() {
   return (
     <section id="skills" className="container py-5" data-aos="fade-up">
-      <h2 className="h3 fw-bold mb-4">Skills</h2>
+      <h2 className="h3 fw-bold mb-4">SKILLS</h2>
       <div className="row g-3">
         {SKILLS.map((skill) => (
           <div key={skill.name} className="col-6 col-md-3 col-lg-2 text-center">

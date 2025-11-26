@@ -3,7 +3,7 @@ import { EDUCATION } from "../data";
 export default function Education() {
   return (
     <section id="education" className="container py-5">
-      <h2 className="h3 fw-bold mb-4 ">Education</h2>
+      <h2 className="h3 fw-bold mb-4 ">EDUCATION</h2>
 
       <div className="row g-4">
         {EDUCATION.map((edu, index) => (

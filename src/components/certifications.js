@@ -4,12 +4,18 @@ export default function Certifications() {
   
 
 return (
-    <section id="certifications" className="container py-5" data-aos="fade-up">
-      <h2 className="h3 fw-bold mb-4">Certifications</h2>
+    <section id="certifications" className="container py-5" data-aos="fade-up" data-aos-duration="1000"
+  data-aos-once="true">
+      <h2 className="h3 fw-bold mb-4">CERTIFICATIONS</h2>
 
       <div className="row">
         {CERTIFICATIONS.map((cert, index) => (
-          <div key={index} className="col-md-6 mb-4">
+          <div
+  key={index}
+  className="col-md-6 mb-4"
+  data-aos="fade-up"
+  data-aos-delay={index * 100}
+>
             <div className="card border-1 h-100 p-4">
               <div className="d-flex justify-content-between align-items-start flex-wrap">
                 <div>

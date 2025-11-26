@@ -7,10 +7,10 @@ export default function Hero() {
   return (
     <header id="home" className="hero">
       
-      <div className="container py-5" style={{ paddingTop: "6rem" }}>
+      <div className="container py-3" style={{ paddingTop: "5rem" }}>
         <div className="row align-items-center g-4">
           <div className="col-12 col-md-7">
-            <h1 className="display-5 fw-bold mb-2">{PROFILE.name}</h1>
+            <h4 className="display-5 fw-bold mb-2">{PROFILE.name}</h4>
 
             {/* 🔥 Typewriter effect added here */}
             <h2 className="h5 text-info mb-3">
