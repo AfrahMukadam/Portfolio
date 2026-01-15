@@ -8,6 +8,7 @@ html {
 
 
 
+
 section {
   scroll-margin-top: 84px; /* so anchors aren't hidden under navbar */
 }
@@ -214,5 +215,4 @@ body {
 .social-icon.email:hover {
   color: #ea4335;
 }
-
 
