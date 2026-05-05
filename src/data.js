@@ -91,7 +91,7 @@ export const EXPERIENCE = [
 
 export const PROJECTS = [
   {
-  name: "📝 Task Desk - Todo App",
+  name: "📝 Task Desk",
   tagline: "Stay organized, stay productive!",
   description:
     "A dynamic task management application with an interactive dashboard to track tasks, monitor progress, and boost productivity with real-time updates. Includes user authentication and personalized task tracking dashboard.",
